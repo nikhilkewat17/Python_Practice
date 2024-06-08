@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35e9326c-217a-496b-931a-0042717e55f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/NikCoder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/10_entering_in_worlds_of_literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/1_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/2_communication_with_developer-comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/3_variable_naming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/4_gearing_on_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/5_steppig_in_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/6_taste_of_variety_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/7_formatting_frenzy_printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/8_escape_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/9_printing_var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session1/plaground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/01_words_of_wisdom_functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/11_File_Handling_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/11_File_handling_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/12_word_count_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/13_file_encryption_&amp;_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/14_CSV_file_manipulating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/15_File_Backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/16_search_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/17_Modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/17_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/18_built_in_modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/19_words_of_wisdom_main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/20_main_script_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/21_Exception_handlig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/22_Battle_with_exception handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/23_exception_handling_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/24_datetime_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/2_Function_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/modules/list_operations_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/modules/math_operations_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/modules/string_ops/string_operations_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/playgrounds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/05_regular_method_vs_class_method_vs_static_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/06_bloodline_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/10_single_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/11_multiple_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/4_class_variables_vs_instance_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
