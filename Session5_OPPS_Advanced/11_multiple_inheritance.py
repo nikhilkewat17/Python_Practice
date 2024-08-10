@@ -3,7 +3,7 @@
 
 class Mother:
     def skills(self):
-        print("Driving, Art")
+        print("Cooking, hardworking in home")
 
 class Father:
     def skills(self):

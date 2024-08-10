@@ -5,62 +5,145 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e9326c-217a-496b-931a-0042717e55f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NikCoder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/10_entering_in_worlds_of_literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/1_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/2_communication_with_developer-comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/3_variable_naming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/4_gearing_on_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/5_steppig_in_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/6_taste_of_variety_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/7_formatting_frenzy_printing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/8_escape_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/9_printing_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session1/plaground.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/01_words_of_wisdom_functions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/11_File_Handling_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/11_File_handling_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/12_word_count_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/13_file_encryption_&amp;_description.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/14_CSV_file_manipulating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/15_File_Backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/16_search_replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/17_Modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/17_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/18_built_in_modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/19_words_of_wisdom_main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/20_main_script_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/21_Exception_handlig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/22_Battle_with_exception handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/23_exception_handling_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/24_datetime_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/2_Function_create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/modules/list_operations_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/modules/math_operations_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/modules/string_ops/string_operations_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session4/playgrounds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/05_regular_method_vs_class_method_vs_static_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/06_bloodline_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/10_single_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/11_multiple_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/4_class_variables_vs_instance_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4_Functions/17_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4_Functions/2_Function_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/12_multi_level_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/13_hierachical_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/14_banker_encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/15_Abstract_method_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/15_Abstract_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/1_oop_introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/2_OOPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/3_word_wisdom_OOP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/7_operator_overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/8_Methods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/9_property_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/Practice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/Practice2_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6_Python_MySQL_Connector/01_Create_database_and_show_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NikCoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nikCoder_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/10_entering_in_worlds_of_literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/10_entering_in_worlds_of_literals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/1_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/1_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/2_communication_with_developer-comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/2_communication_with_developer-comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/3_variable_naming.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/3_variable_naming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/4_gearing_on_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/4_gearing_on_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/5_steppig_in_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/5_steppig_in_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/6_taste_of_variety_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/6_taste_of_variety_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/7_formatting_frenzy_printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/7_formatting_frenzy_printing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/8_escape_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/8_escape_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/9_printing_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/9_printing_var.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session1/plaground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session1_basic/plaground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session3/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3_list_tuple_dict/01_List_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/01_words_of_wisdom_functions" beforeDir="false" afterPath="$PROJECT_DIR$/Session3_list_tuple_dict/02_Dictionary_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/11_File_Handling_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/11_File_Handling_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/11_File_handling_self.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/11_File_handling_self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/12_word_count_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/12_word_count_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/13_file_encryption_&amp;_description.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/13_file_encryption_&amp;_description.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/14_CSV_file_manipulating.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/14_CSV_file_manipulating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/15_File_Backup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/15_File_Backup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/16_search_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/16_search_replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/17_Modules" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/17_Modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/17_Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3_list_tuple_dict/playground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/18_built_in_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/18_built_in_modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/19_words_of_wisdom_main" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/19_words_of_wisdom_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/20_main_script_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/20_main_script_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/21_Exception_handlig" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/21_Exception_handlig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/22_Battle_with_exception handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/22_Battle_with_exception handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/23_exception_handling_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/23_exception_handling_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/24_datetime_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/24_datetime_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/2_Function_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/01_words_of_wisdom_functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/modules/list_operations_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/modules/list_operations_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/modules/math_operations_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/modules/math_operations_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/modules/string_ops/string_operations_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/modules/string_ops/string_operations_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session4/playgrounds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4_Functions/playgrounds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/05_regular_method_vs_class_method_vs_static_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/5_regular_method_vs_class_method_vs_static_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/06_bloodline_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/6_bloodline_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/10_single_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/10_single_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/11_multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/11_multiple_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/4_class_variables_vs_instance_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5_OPPS_Advanced/4_class_variables_vs_instance_variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nikhilkewat17/Python_Practice.git&quot;,
+    &quot;accountId&quot;: &quot;4fe12899-ade1-4142-8a8d-fb1a83a3d3d4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hdnhOIrGFkM5jqb7INspIXF6dW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "master"
+    "Python.01_Connect_to_mysql_connector.executor": "Run",
+    "Python.02_Dictionary_comprehension.executor": "Run",
+    "Python.02_retrive_data_from_existing_data.executor": "Run",
+    "Python.03_create_table_in_database.executor": "Run",
+    "Python.03_show_tables_from_existing_data.executor": "Run",
+    "Python.04_insert_data_into_table.executor": "Run",
+    "Python.08_property_decorator.executor": "Run",
+    "Python.11_multiple_inheritance.executor": "Run",
+    "Python.12_multi_level_inheritance.executor": "Run",
+    "Python.13_hierachical_inheritance.executor": "Run",
+    "Python.14_banker_encapsulation.executor": "Run",
+    "Python.15_Abstract_methods.executor": "Run",
+    "Python.1_oop_introduction.executor": "Run",
+    "Python.2_OOPS.executor": "Run",
+    "Python.Connect_to_mysql_connector.executor": "Run",
+    "Python.Practice1.executor": "Run",
+    "Python.Practice2_task.executor": "Run",
+    "Python.playground.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Hp/PycharmProjects/nikcoder",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\nikcoder\Session9_Numpy" />
+      <recent name="C:\Users\Hp\PycharmProjects\nikcoder\Session10_Pandas" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e9326c-217a-496b-931a-0042717e55f5" name="Changes" comment="" />
+      <created>1717932941345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717932941345</updated>
+    </task>
     <servers />
   </component>
 </project>
