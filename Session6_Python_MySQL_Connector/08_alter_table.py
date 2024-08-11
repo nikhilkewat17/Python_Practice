@@ -19,7 +19,6 @@ cursor.execute(sql)
 connection.commit()
 
 
-
 cursor.close()
 connection.close()
 

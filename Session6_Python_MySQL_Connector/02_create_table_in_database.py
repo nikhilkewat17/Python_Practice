@@ -17,7 +17,7 @@ cursor.execute(table)
 
 # commit data to database
 connection.commit()
-# close cursor
+# close cursorh
 cursor.close()
 
 # close connection
